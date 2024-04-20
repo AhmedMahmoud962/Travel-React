@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Travel-React/static/css/main.73140296.css",
+    "main.js": "/Travel-React/static/js/main.20d53dc0.js",
+    "static/media/3.jpg": "/Travel-React/static/media/3.84d5235cc693e15661d6.jpg",
+    "static/media/1.jpg": "/Travel-React/static/media/1.509d4d795248ac9962f3.jpg",
+    "static/media/contact-bg.jpg": "/Travel-React/static/media/contact-bg.67bc1ef3b7b56f1d2ed9.jpg",
+    "static/media/bg-hero.jpg": "/Travel-React/static/media/bg-hero.3c39ea842d88148bd97a.jpg",
+    "static/media/8.jpg": "/Travel-React/static/media/8.9d1ddd2ceb0e8def6f48.jpg",
+    "static/media/5.jpg": "/Travel-React/static/media/5.46b372902997b3fbd648.jpg",
+    "static/media/6.jpg": "/Travel-React/static/media/6.c405c8228d51cdef5d0f.jpg",
+    "static/media/4.jpg": "/Travel-React/static/media/4.0c7885e97d08f0a61db1.jpg",
+    "static/media/night.jpg": "/Travel-React/static/media/night.ac6d287d5d0014553b87.jpg",
+    "index.html": "/Travel-React/index.html",
+    "main.73140296.css.map": "/Travel-React/static/css/main.73140296.css.map",
+    "main.20d53dc0.js.map": "/Travel-React/static/js/main.20d53dc0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73140296.css",
+    "static/js/main.20d53dc0.js"
+  ]
+}
