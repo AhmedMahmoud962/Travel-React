@@ -1,0 +1,48 @@
+.form-container {
+  margin: 4rem 6rem;
+  color: #2a2a2a;
+}
+
+.form-container h1 {
+  text-align: center;
+}
+
+.form-container form {
+  padding-top: 2.5rem;
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  margin: 0 auto;
+}
+
+.form-container input {
+  height: 2.5rem;
+  padding: 0 1rem;
+  margin-bottom: 2rem;
+  border-radius: 7px;
+  border: 1px solid #2a2a2a;
+}
+
+.form-container textarea {
+  padding: 1rem;
+  margin-bottom: 2rem;
+  border-radius: 7px;
+  border: 1px solid #2a2a2a;
+}
+
+.form-container button {
+  display: inline;
+
+}
+
+@media screen and (max-width:850px) {
+  .form-container {
+    margin: 4rem 2rem;
+  }
+
+  .form-container form {
+    padding-top: 2rem;
+    width: 90%;
+  }
+
+}

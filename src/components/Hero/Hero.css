@@ -1,0 +1,82 @@
+.tacs-background {
+  width: 100%;
+  height: 100vh;
+  position: relative;
+}
+
+.tacs-mid-background {
+  width: 100%;
+  height: 70vh;
+  position: relative;
+}
+
+.tacs-mid-background .hide {
+  display: none;
+}
+
+img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.hero-text {
+  position: absolute;
+  top: 55%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  text-align: center;
+}
+
+.hero-text h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  background: #fff;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.hero-text p {
+  font-size: 1.2rem;
+  color: #fff;
+  padding: .5rem 0 2rem 0;
+}
+
+.hero-text .show {
+  text-decoration: none;
+  background: #fff;
+  padding: 1rem 2rem;
+  color: #222;
+  border-radius: 5px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  font-size: 1rem;
+}
+
+@media screen and (max-width:800px) {
+  .tacs-background {
+    height: 80vh;
+  }
+}
+
+@media screen and (max-width:600px) {
+  .tacs-background {
+    height: 60vh;
+  }
+
+  .hero-text h1 {
+    padding: 10px 20px;
+    font-size: 2rem;
+  }
+
+  .hero-text p {
+    font-size: .8rem;
+    padding: 0 0 2rem 0;
+  }
+
+  .hero-text .show {
+    padding: .6rem 1rem;
+    font-size: .9rem;
+  }
+}
